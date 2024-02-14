@@ -17,7 +17,7 @@
 [![website](./instagram-dark.svg)](https://www.instagram.com/oussamaa_said/gh-dark-mode-only)
 
 ### Languages and Tools:
-<img align="left" alt="Flutter" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://github.com/said-oussama/said-oussama/blob/main/flutter-icon-1651x2048-ojswpayr.png)" style="padding-right:10px;"/>
+<img align="left" alt="Flutter" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/flutter-icon-1651x2048-ojswpayr.png" style="padding-right:10px;"/>
 <img align="left" alt="vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt=".net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
