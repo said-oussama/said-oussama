@@ -18,8 +18,8 @@
 
 ### Languages and Tools:
 <img align="left" alt="Flutter" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/flutter-icon-1651x2048-ojswpayr.png" style="padding-right:10px;"/>
-<img align="left" alt="vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt=".net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="vue.js" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/vue-js-icon-2048x1766-btrgkrhi.png" style="padding-right:10px;" />
+<img align="left" alt=".net" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/vb-net-icon-1.jpg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
