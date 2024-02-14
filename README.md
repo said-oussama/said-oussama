@@ -24,8 +24,8 @@
 <img align="left" alt="JavaScript" width="26px" src="" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/github-light.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/globe-dark.svg" style="padding-right:10px;" />
 <br />
 <br />
 
