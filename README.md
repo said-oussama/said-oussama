@@ -2,7 +2,7 @@
 
 
 
-## I'm a Full Stack Developer !!
+## I'm a Full Stack .Net/Vue.js developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Learn more about vue.js 3 and .net 8 and flutter
