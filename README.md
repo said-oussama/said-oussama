@@ -9,7 +9,7 @@
 ⚪ ᴇᴀɢᴇʀ ᴛᴏ ʟᴇᴀʀɴ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʙᴇꜱᴛ ᴘʀᴀᴄᴛɪᴄᴇꜱ,ᴅᴇꜱɪɢɴ ᴘᴀᴛᴛᴇʀɴꜱ,ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ꜱᴄᴀʟᴀʙɪʟɪᴛʏ.<br>
 ⚪ ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ꜱᴏ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ꜱᴀʏ ʜɪ , ɪ'ʟʟ ʙᴇ ʜᴀᴘᴘʏ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ᴍᴏʀᴇ 🤍<br>
 ⚪ 🌱 I’m currently learning everything 🤣<br>
-⚪ 🥅 2024 Goals: Learn more about vue.js 3 and .net 8 and flutter<br>
+⚪ 🥅 2024 Goals: Learn more about Vue.js 3 , .Net 8 and Flutter<br>
 
 ### Connect with me:
 
