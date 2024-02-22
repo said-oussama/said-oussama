@@ -34,7 +34,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/globe-dark.svg" style="padding-right:10px;" />
 <br />
 <br />
- ## ![](https://img.shields.io/badge/GitHub_Stats:-yellow?style=for-the-badge)
 <details>
  
 
