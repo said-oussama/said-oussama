@@ -1,15 +1,15 @@
-# Hi there, I'm Oussama 👋 
+# $\mathcal{\color{RoyalBlue}{𝑯𝒊 \ \ 𝒕𝒉𝒆𝒓𝒆 \ 𝒈𝒍𝒂𝒅\ 𝒕𝒐 \ 𝒔𝒆𝒆 \ 𝒚𝒐𝒖 \ 𝒉𝒆𝒓𝒆!  \ I'm \ Oussama  👋 } \\ }$ 
 
 
 
 ## I'm a Full Stack .Net/Vue.js developer !!
-⚪ ɪ ᴀᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀ ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ʟᴇᴀʀɴᴇʀ.
-⚪ ɪ ᴡʀɪᴛᴇ ᴀ ʟᴏᴛ ᴏɴ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ ᴏꜰ ᴛᴏᴘɪᴄꜱ ʀᴇɢᴀʀᴅɪɴɢ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
-⚪ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴛʀᴀɴꜱꜰᴏʀᴍɪɴɢ ʀᴇᴀʟ ᴡᴏʀʟᴅ ᴘʀᴏʙʟᴇᴍꜱ ɪɴᴛᴏ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴏʟᴜᴛɪᴏɴꜱ.
-⚪ ᴇᴀɢᴇʀ ᴛᴏ ʟᴇᴀʀɴ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʙᴇꜱᴛ ᴘʀᴀᴄᴛɪᴄᴇꜱ,ᴅᴇꜱɪɢɴ ᴘᴀᴛᴛᴇʀɴꜱ,ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ꜱᴄᴀʟᴀʙɪʟɪᴛʏ.
-⚪ ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ꜱᴏ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ꜱᴀʏ ʜɪ , ɪ'ʟʟ ʙᴇ ʜᴀᴘᴘʏ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ᴍᴏʀᴇ 🤍
-⚪ 🌱 I’m currently learning everything 🤣
-⚪ 🥅 2024 Goals: Learn more about vue.js 3 and .net 8 and flutter
+⚪ ɪ ᴀᴍ ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴀ ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ʟᴇᴀʀɴᴇʀ.<br>
+⚪ ɪ ᴡʀɪᴛᴇ ᴀ ʟᴏᴛ ᴏɴ ᴀ ᴡɪᴅᴇ ʀᴀɴɢᴇ ᴏꜰ ᴛᴏᴘɪᴄꜱ ʀᴇɢᴀʀᴅɪɴɢ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.<br>
+⚪ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴛʀᴀɴꜱꜰᴏʀᴍɪɴɢ ʀᴇᴀʟ ᴡᴏʀʟᴅ ᴘʀᴏʙʟᴇᴍꜱ ɪɴᴛᴏ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴏʟᴜᴛɪᴏɴꜱ.<br>
+⚪ ᴇᴀɢᴇʀ ᴛᴏ ʟᴇᴀʀɴ ᴀɴᴅ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ʙᴇꜱᴛ ᴘʀᴀᴄᴛɪᴄᴇꜱ,ᴅᴇꜱɪɢɴ ᴘᴀᴛᴛᴇʀɴꜱ,ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ꜱᴄᴀʟᴀʙɪʟɪᴛʏ.<br>
+⚪ ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ꜱᴏ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ꜱᴀʏ ʜɪ , ɪ'ʟʟ ʙᴇ ʜᴀᴘᴘʏ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ᴍᴏʀᴇ 🤍<br>
+⚪ 🌱 I’m currently learning everything 🤣<br>
+⚪ 🥅 2024 Goals: Learn more about vue.js 3 and .net 8 and flutter<br>
 
 ### Connect with me:
 
@@ -34,9 +34,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/said-oussama/said-oussama/blob/main/globe-dark.svg" style="padding-right:10px;" />
 <br />
 <br />
-
+ ## ![](https://img.shields.io/badge/GitHub_Stats:-yellow?style=for-the-badge)
 <details>
-  ## ![](https://img.shields.io/badge/GitHub_Stats:-yellow?style=for-the-badge)
+ 
 
   <img align="left" alt="oussama's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=said-oussama&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
